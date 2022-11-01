@@ -31,9 +31,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Jeff Maclean**
 
-- GitHub: [@tariktesfa](https://github.com/bollavilla)
-- Twitter: [@tariktesfa](https://twitter.com/jeff_maclean_austen)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jeff-austen-maclean/)
+- GitHub: https://github.com/bollavilla)
+- Twitter:(https://twitter.com/jeff_maclean_austen)
+- LinkedIn:(https://www.linkedin.com/in/jeff-austen-maclean/)
 
 ## 🤝 Contributing
 
